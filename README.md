@@ -1,1 +1,1 @@
-# ds_algos
+data structures and algorithms
